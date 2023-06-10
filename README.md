@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Akbar Alfaidah**.\
+
+Saya seorang **Data Scientist Enthusiast** dan Mahasiswa Semester 2 [Universitas Sriwijaya](https://unsri.ac.id/)
+
+Saya sedang menempuh pendidikan jurusan Teknik Informatika dan sedang menempuh bootcamp di [Pacmann Academy](https://pacmann.io/)
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/akbar-alfaidah-868953251/)ku ya.
+
+Lets Connect✨
+
+
+
 <!--
 **akbaralfaidah/akbaralfaidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
