@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Akbar Alfaidah**.\
 
-Saya seorang **Data Scientist Enthusiast** dan Mahasiswa Semester 2 [Universitas Sriwijaya](https://unsri.ac.id/)
+Saya seorang **Data Scientist Enthusiast** dan Mahasiswa Semester 3 [Universitas Sriwijaya](https://unsri.ac.id/)
 
 Saya sedang menempuh pendidikan jurusan Teknik Informatika dan sedang menempuh bootcamp di [Pacmann Academy](https://pacmann.io/)
 
