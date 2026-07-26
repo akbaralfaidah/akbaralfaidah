@@ -1,4 +1,4 @@
-<h1 align="center">Hai, saya Abay 👋</h1>
+<h1 align="center">Hai, saya Akbar Alfaidah 👋</h1>
 <h3 align="center">Solo Developer | Web, App & AI/ML Enthusiast</h3>
 
 <p align="center">
