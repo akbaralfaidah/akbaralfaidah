@@ -12,7 +12,6 @@
 - 🎓 Lulusan **Teknik Informatika**, berbasis di Jambi, Indonesia
 - 💼 Freelance developer dengan pendekatan **"lonewolf" / vibecoding** — dari ide, desain, coding, sampai deploy dan kelola infrastruktur sendiri
 - 🚀 Fokus membangun solusi digital untuk **UMKM, SME, wedding, dan mahasiswa** — website, aplikasi, dan integrasi AI
-- 🏆 Peserta **Top 99 IndonesiaNEXT 10th by Telkomsel (Hacker Cluster)**
 - 🌱 Saat ini mengembangkan **SaaS laundry berbasis Laravel + Supabase**
 - 🎯 Target jangka panjang: membangun personal brand sebagai solo developer, lalu bertransisi menjadi **Project Manager** memimpin tim tech
 - 📍 Jambi, Indonesia
