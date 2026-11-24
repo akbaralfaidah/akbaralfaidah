@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Full-Stack Developer | IT Operations | AI & Cloud Enthusiast
 
-I am a Software Engineer based in Jambi, Indonesia, with a strong foundation in Informatics Engineering. I specialize in building end-to-end web and mobile applications, designing scalable databases, and automating workflows using CI/CD pipelines and AI-assisted tools. 
+I am a Akbar Alfaidah based in Jambi, Indonesia, with a strong foundation in Informatics Engineering. I specialize in building end-to-end web and mobile applications, designing scalable databases, and automating workflows using CI/CD pipelines and AI-assisted tools. 
 
 Currently, I work as a Junior IT Staff at Balai Gakkum LHK Sumatera, managing IT infrastructure and developing core internal systems, while also delivering freelance software solutions for SMEs.
 
